@@ -1,0 +1,23 @@
+
+
+Material for Google Cloud platform
+
+
+https://www.digimat.in/nptel/courses/video/106105167/L19.html
+
+https://www.digimat.in/nptel/courses/video/106105167/L20.html
+
+
+Material for Windows Azure platform
+
+
+https://www.digimat.in/nptel/courses/video/106105167/L17.html
+
+https://www.digimat.in/nptel/courses/video/106105167/L18.html
+
+
+Material for OpenStack
+
+https://www.digimat.in/nptel/courses/video/106105167/L15.html
+
+https://www.digimat.in/nptel/courses/video/106105167/L16.html
